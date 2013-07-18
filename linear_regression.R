@@ -1,7 +1,9 @@
 ###################################
 # Author:  Justin Ng
 # Email:   justinng1@gmail.com
-# Website: justinng1.wordpress.com
+# Website: http://justinng1.wordpress.com
+#
+# Post:    http://justinng1.wordpress.com/2013/06/28/gradient-descent-for-linear-regression/
 ###################################
 
 # test data.
