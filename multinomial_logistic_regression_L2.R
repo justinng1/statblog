@@ -1,3 +1,11 @@
+###################################
+# Author:  Justin Ng
+# Email:   justinng1@gmail.com
+# Website: http://justinng1.wordpress.com
+#
+# Post:    http://justinng1.wordpress.com/2013/07/22/regularized-cost-functions/
+###################################
+
 # test data.
 rm(list=ls())
 
